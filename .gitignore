@@ -11,4 +11,6 @@ __pycache__/
 
 # macOS system files (optional)
 .DS_Store.idea/
+
+#idea project files
 .idea/
