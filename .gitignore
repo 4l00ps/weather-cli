@@ -9,8 +9,8 @@ __pycache__/
 # VS Code settings (optional)
 .vscode/
 
-# macOS system files (optional)
-.DS_Store.idea/
+# macOS system files
+.DS_Store
 
-#idea project files
+# IntelliJ/PyCharm project files
 .idea/
